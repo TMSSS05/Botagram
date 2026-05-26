@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TMSSS05/Botagram/refs/heads/main/public/lovable-uploads/e2e4b1d4-462c-4618-a556-0fdcce07340e.png">
-    <img src="https://raw.githubusercontent.com/TMSSS05/Botagram/refs/heads/main/public/lovable-uploads/e2e4b1d4-462c-4618-a556-0fdcce07340e.png" alt="Botagram" width="100%" style="border-radius: 24px;">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vakandi/Botagram/refs/heads/main/public/lovable-uploads/e2e4b1d4-462c-4618-a556-0fdcce07340e.png">
+    <img src="https://raw.githubusercontent.com/vakandi/Botagram/refs/heads/main/public/lovable-uploads/e2e4b1d4-462c-4618-a556-0fdcce07340e.png" alt="Botagram" width="100%" style="border-radius: 24px;">
   </picture>
 </p>
 
